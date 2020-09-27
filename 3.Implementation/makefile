@@ -7,10 +7,10 @@ BUILD = build
 
 # All source code files
 SRC = calci_main.c\
-sourc/source.c\
+Sourc/Source.c\
 
 # All test source files
-TEST_SRC = source/source.c\
+TEST_SRC = Source/Source.c\
 test/test_calci.c
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
