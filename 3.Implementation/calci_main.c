@@ -1,5 +1,5 @@
 
-#include <calci_head.h>
+#include <Calci.h>
 
 /* Status of the operation requested */
 #define VALID   (1)
