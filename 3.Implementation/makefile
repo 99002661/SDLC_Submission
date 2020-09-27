@@ -11,7 +11,7 @@ Sourc/Source.c\
 
 # All test source files
 TEST_SRC = Source/Source.c\
-test/test_calci.c
+test/calci_test.c
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
