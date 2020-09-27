@@ -7,7 +7,7 @@ BUILD = build
 
 # All source code files
 SRC = calci_main.c\
-Sourc/Source.c\
+Source/Source.c\
 
 # All test source files
 TEST_SRC = Source/Source.c\
